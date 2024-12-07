@@ -1,0 +1,12 @@
+beautifulsoup4
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+langchain-redis
+openai
+pandas
+PyPDF2
+redis
+streamlit
+tiktoken
